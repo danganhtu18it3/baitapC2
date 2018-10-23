@@ -18,9 +18,9 @@ main(){
 	   }
 	else if(sth>=50 and sth<150)
 	{ tiendien=2000*(sth-50)+50*1500;
-	printf("So tien dien phai tra la %f : ",tiendien);}
+	printf("Tien dien phai tra la %f : ",tiendien);}
 	      else {
 	      	tiendien=50*1500+100*2000+(sth-150)*2500;
-	      	printf("So tien dien phai tra la %f : ",tiendien);
+	      	printf("Tien dien phai tra la %f : ",tiendien);
 		  }
 	}
